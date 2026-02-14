@@ -1,104 +1,41 @@
-<!-- ===================== BANNER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=250&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,50:1f1c2c,100:00f5ff&text=FARDIN%20KHAN%20NUR&fontSize=55&fontColor=00F5FF&animation=twinkling&fontAlignY=35&desc=CSE%20Student%20|%20Competitive%20Programmer&descAlignY=55"/>
 
 <p align="center">
-  <b>Assalamu Alaikum 👋</b><br>
-  I’m <b>Fardin Khan Nur</b>, a <b>Computer Science & Engineering student</b><br>
-  🚀 Focused on <b>Competitive Programming</b> & Problem Solving
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=600&color=00F5FF&center=true&vCenter=true&width=900&lines=Assalamu+Alaikum+👋;Computer+Science+%26+Engineering+Student;Competitive+Programming+Focused;Algorithms+%7C+Data+Structures+%7C+Problem+Solving;Dark+Cyberpunk+Developer+Mindset+⚡" />
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fardin-khan-nur" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fardin-khan-nur&left_color=black&right_color=00F5FF"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 ABOUT ME
+Name        : Fardin Khan Nur
+Field       : Computer Science & Engineering
+Focus       : Competitive Programming
+Core Skills : Algorithms, Data Structures, Mathematics
+Mindset     : Discipline • Consistency • Growth
 
-- 🎓 **CSE Student**
-- 🧠 Passionate about **Competitive Programming**
-- 💻 Strong interest in **Algorithms & Data Structures**
-- ⚡ Solving problems on **Codeforces, LeetCode, AtCoder**
-- 🌱 Currently improving **CP speed & accuracy**
-- 🤝 Open to collaboration & learning
-
----
-
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fardin-khan-nur&theme=darkhub&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fardin-khan-nur&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fardin-khan-nur&theme=radical&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardin-khan-nur&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
-## 🧠 Competitive Programming Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
-
-## 🛠 Tools & Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-| # | Project | Description |
-|---|--------|-------------|
-| 1 | Competitive Programming Solutions | Codeforces, LeetCode, AtCoder problem solutions |
-| 2 | Data Structures Practice | Implementation of core DS concepts |
-| 3 | Algorithm Notes | Clean & optimized algorithm templates |
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fardin-khan-nur&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Coding Profiles
-
-<p align="center">
-  <a href="https://codeforces.com/profile/fardin-khan-nur"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="https://github.com/fardin-khan-nur"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/></a>
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7F00FF&height=120&section=footer"/>
+🏆 GITHUB PROFILE TROPHIES
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=fardin-khan-nur&theme=matrix&no-frame=true&row=2&column=5"/> </p>
+📊 GITHUB STATS
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=fardin-khan-nur&show_icons=true&theme=tokyonight&hide_border=true"/> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=fardin-khan-nur&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardin-khan-nur&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+💻 PROGRAMMING LANGUAGES
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark"/> </p>
+🛠 FRAMEWORKS • TOOLS • ENVIRONMENT
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash,cmake&theme=dark"/> </p>
+🧠 LEARNING TECHNOLOGY STACK
+<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,git,github,linux,vscode,bash,cmake&perline=8&theme=dark"/> </p>
+📌 PROJECTS
+#	Project	Description
+1	Competitive Programming Archive	Codeforces, LeetCode, AtCoder solutions
+2	Data Structures Practice	Core DSA implementations
+3	Algorithm Templates	Reusable CP snippets
+📈 CONTRIBUTION GRAPH
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=fardin-khan-nur&bg_color=0d1117&color=00F5FF&line=7DF9FF&point=FFFFFF&hide_border=true"/> </p>
+🌐 CODING PLATFORMS
+<p align="center"> <a href="https://codeforces.com/"> <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=00F5FF"/> </a> <a href="https://leetcode.com/"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00F5FF"/> </a> <a href="https://atcoder.jp/"> <img src="https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logoColor=00F5FF"/> </a> </p>
+📫 CONTACT
+<p align="center"> <a href="https://github.com/fardin-khan-nur"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5FF"/> </a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:00f5ff,100:0d1117&section=footer"/> ```
